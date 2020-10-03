@@ -1,4 +1,4 @@
-# SMXpense
+# SMXpense 
 ### DESCRIPTION
 <p>The main motive behind this app is to help lazy people manage their daily, weekly, and monthly expenses, organise their expenditure, and to assist them; rather make them spendthrift.</p>
 
